@@ -1,2 +1,3 @@
 # .github
-Bienvenidos al Grupo SM2B 
+
+## Bienvenidos al Grupo SM2B 
